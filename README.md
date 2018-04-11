@@ -1,17 +1,61 @@
 # Big Data
+
+## Spark
+[How-to: Tune Your Apache Spark Jobs](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
+
+[Spark性能优化：开发调优篇](https://www.iteblog.com/archives/1657.html)
+
+[Spark性能优化：资源调优篇](https://www.iteblog.com/archives/1659.html)
+
+[Spark性能优化：数据倾斜调优](https://www.iteblog.com/archives/1671.html)
+
+[Spark性能优化：shuffle调优](https://www.iteblog.com/archives/1672.html)
+
+[Spark性能优化指南——基础篇 by 李雪蕤](https://tech.meituan.com/spark-tuning-basic.html)
+
+[Spark性能优化指南——高级篇 by 李雪蕤](https://tech.meituan.com/spark-tuning-pro.html)
+
+## Zeppelin
 [Demo notebooks for Apache Zeppelin](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 
 [Data App development with Zeppelin & AngularJS](http://randerzander.github.io/#?post=data-apps.md) 
 
-# Machine Learning
+[A comprehensive comparison of Jupyter vs. Zeppelin](https://www.linkedin.com/pulse/comprehensive-comparison-jupyter-vs-zeppelin-hoc-q-phan-mba-/)
+
+# ML & DL
+
+## Machine Learning
 [GBM vs xgboost vs lightGBM](https://www.kaggle.com/nschneider/gbm-vs-xgboost-vs-lightgbm)
 
-# Deep Learning
+## Deep Learning
 [TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+
 [斗大的熊猫](http://blog.topspeedsnail.com)
 
-# Auto ML
+## Auto ML
+
+[Auto-sklearn](http://automl.github.io/auto-sklearn/stable/extending.html)
+
+[AUTOML](http://www.ml4aad.org/automl/)
+
+[TPOT](https://github.com/EpistasisLab/tpot)
+
+[H2O Auto-ML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html#)
+
+[Penn AI](http://pennai.org/)
+
+[Hyperopt](http://hyperopt.github.io/hyperopt/)
+
+[Hyperparameter optimization](https://en.wikipedia.org/wiki/Hyperparameter_optimization#Bayesian_optimization)
+
 [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+
+[AutoML comparison](https://medium.com/@MLJARofficial/automl-comparison-4b01229fae5e)
+
+[Xcessiv](https://github.com/reiinakano/xcessiv)
+
+## Serving
+[ModelDB: A system to manage ML models](https://github.com/mitdbg/modeldb)
 
 # NLP
 [displaCy Named Entity Visualizer](https://explosion.ai/demos/displacy-ent)
@@ -78,7 +122,12 @@
 
 # Awesome
 [awesome-nlp](https://github.com/keon/awesome-nlp)
+
 [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
+
+[awesome-deeplearing-resources](https://github.com/endymecy/awesome-deeplearning-resources)
+
+[awesome-streaming](https://github.com/manuzhang/awesome-streaming)
 
 # Slides
 [MLlib and All-pairs Similarity](https://stanford.edu/~rezab/slides/maryland_mllib.pdf)
