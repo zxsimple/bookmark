@@ -25,6 +25,8 @@
 # ML & DL
 
 ## Machine Learning
+[LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+
 [GBM vs xgboost vs lightGBM](https://www.kaggle.com/nschneider/gbm-vs-xgboost-vs-lightgbm)
 
 ## Deep Learning
