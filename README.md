@@ -116,6 +116,7 @@
 
 [Kubernetes中文文档](https://linfan1.gitbooks.io/kubernetes-chinese-docs/content/)
 
+[Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
 
 # Paper
 [Distributed TensorFlow with MPI](https://arxiv.org/pdf/1603.02339.pdf)
