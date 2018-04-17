@@ -29,6 +29,8 @@
 
 [GBM vs xgboost vs lightGBM](https://www.kaggle.com/nschneider/gbm-vs-xgboost-vs-lightgbm)
 
+[Feisky](https://feisky.xyz/machine-learning/)
+
 ## Deep Learning
 [TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
 
@@ -131,6 +133,8 @@
 [awesome-deeplearing-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
 [awesome-streaming](https://github.com/manuzhang/awesome-streaming)
+
+[awesome-cheetsheets](https://jimmysong.io/cheatsheets/)
 
 # Slides
 [MLlib and All-pairs Similarity](https://stanford.edu/~rezab/slides/maryland_mllib.pdf)
