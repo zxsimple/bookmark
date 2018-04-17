@@ -88,7 +88,8 @@
 
 [人脸验证算法Joint Bayesian详解及实现](https://blog.csdn.net/cyh_24/article/details/49059475)
 
-# Kubernates
+# Micro Servcie & Container
+## Kubernates
 [Migrating applications, clusters, and Kubernetes to etcd v3](https://coreos.com/blog/migrating-applications-etcd-v3.html)
 
 [TensorFlow on Kubernetes](http://www.inwinstack.com/zh/2017/04/17/tensorflow-on-kubernetes/)
@@ -96,6 +97,11 @@
 [Monitoring Kubernetes performance metrics](https://www.datadoghq.com/blog/monitoring-kubernetes-performance-metrics/)
 
 [Tutorial : Getting Started with Kubernetes on your Windows Laptop with Minikube](https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226)
+
+## Micro Service
+[The twelve-factor App](https://12factor.net/)
+
+[12因素应用](https://jimmysong.io/kubernetes-handbook/cloud-native/kubernetes-and-cloud-native-app-overview.html#12%E5%9B%A0%E7%B4%A0%E5%BA%94%E7%94%A8)
 
 # Docs
 [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable) 
