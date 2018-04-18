@@ -106,6 +106,9 @@
 # Distribution
 [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/)
 
+# Front-End
+[StaticGen](https://www.staticgen.com/)
+
 # Docs
 [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable) 
 
