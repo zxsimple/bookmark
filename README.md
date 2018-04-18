@@ -103,6 +103,9 @@
 
 [12因素应用](https://jimmysong.io/kubernetes-handbook/cloud-native/kubernetes-and-cloud-native-app-overview.html#12%E5%9B%A0%E7%B4%A0%E5%BA%94%E7%94%A8)
 
+# Distribution
+[Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/)
+
 # Docs
 [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable) 
 
