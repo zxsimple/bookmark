@@ -24,8 +24,19 @@
 
 # ML & DL
 
+## Evaluation
+[机器学习中的偏差和方差](https://blog.csdn.net/renyp8799/article/details/50387042)
+
+## Machine Learning Basic 
+[机器学习中的数学(3)-模型组合(Model Combining)之Boosting与Gradient Boosting](https://www.cnblogs.com/LeftNotEasy/archive/2011/01/02/machine-learning-boosting-and-gradient-boosting.html)
+
+### Learning Rate
+[Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
+
 ## Machine Learning
 [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+
+[Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 
 [GBM vs xgboost vs lightGBM](https://www.kaggle.com/nschneider/gbm-vs-xgboost-vs-lightgbm)
 
