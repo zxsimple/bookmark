@@ -42,6 +42,12 @@
 
 [Feisky](https://feisky.xyz/machine-learning/)
 
+[机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+
+[机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
+
+[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)
+
 ## Deep Learning
 [TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
 
