@@ -136,6 +136,9 @@
 # Products
 [Deep Learning Studio](http://deepcognition.ai/)
 
+# Architecture
+[Stack Overflow: The Architecture - 2016 Edition](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
+
 # Gitbook
 [Python文本数据分析初学指南](https://datartisan.gitbooks.io/begining-text-mining-with-python/content)
 
