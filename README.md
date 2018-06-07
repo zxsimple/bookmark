@@ -15,6 +15,8 @@
 
 [Spark性能优化指南——高级篇 by 李雪蕤](https://tech.meituan.com/spark-tuning-pro.html)
 
+[Spark on Angel：Spark机器学习的核心加速器](https://segmentfault.com/a/1190000010471835)
+
 ## Zeppelin
 [Demo notebooks for Apache Zeppelin](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 
@@ -47,6 +49,10 @@
 [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
 
 [Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)
+
+[Spark 随机森林算法原理、源码分析及案例实战](https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-random-forest/)
+
+[K-means聚类算法的三种改进(K-means++,ISODATA,Kernel K-means)介绍与对比](https://www.cnblogs.com/yixuan-xu/p/6272208.html)
 
 ## Deep Learning
 [TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
