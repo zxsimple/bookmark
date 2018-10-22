@@ -176,3 +176,6 @@
 
 # Slides
 [MLlib and All-pairs Similarity](https://stanford.edu/~rezab/slides/maryland_mllib.pdf)
+
+# NoSQL
+[NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
