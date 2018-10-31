@@ -179,3 +179,6 @@
 
 # NoSQL
 [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
+
+# Cloud
+[Selecting a Cloud Provider](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
