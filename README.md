@@ -35,6 +35,11 @@
 ### Learning Rate
 [Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
 
+### Feature Embedding
+[推荐系统遇上深度学习(一)--FM模型理论和实践](https://www.jianshu.com/p/152ae633fb00)
+[推荐系统遇上深度学习(二)--FFM模型理论和实践](https://www.jianshu.com/p/781cde3d5f3d)
+[推荐系统遇上深度学习(三)--DeepFM模型理论和实践](https://www.jianshu.com/p/6f1c2643d31b)
+[推荐系统遇上深度学习(四)--多值离散特征的embedding解决方案](https://www.jianshu.com/p/4a7525c018b2)
 ## Machine Learning
 [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 
