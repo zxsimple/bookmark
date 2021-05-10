@@ -56,6 +56,12 @@
 
 [用户分析——用户特征分析（用户画像）](https://www.cnblogs.com/wxdlut/p/10870730.html)
 
+[拼多多人群定位工具——DMP，实操讲解DMP精准定位人群！](https://zhuanlan.zhihu.com/p/328331223)
+
+[作为广告营销人，你真的了解DMP吗？5分钟让你读懂DMP是什么](https://zhuanlan.zhihu.com/p/57755012)
+
+[DMP平台调研](https://zhuanlan.zhihu.com/p/61754743)
+
 #### Data Analystics
 
 [A Comprehensive Guide to Real-Time Big Data Analytics](https://www.scnsoft.com/blog/real-time-big-data-analytics-comprehensive-guide)
