@@ -16,6 +16,9 @@
 ### Architecture
 [Enterprise Big Data: Understanding Big Data Analytics at the Enterprise Level](https://www.selecthub.com/big-data-analytics/enterprise-big-data-analytics/)
 
+[Big Data Platform](https://www.harmony-alliance.eu/bigdata-platform/big-data-platform)
+
+[ML Infrastructure Tools for Production](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
 
 
 ### Data Platform 
@@ -25,7 +28,18 @@
 
 [Data Analytics](https://eclipsys.ca/what-we-do/data-analytics/)
 
+[AI Platform](https://www.deepsphere.ai/)
+
 ### Data Products
+#### BI
+[Best practices for BI tool to connect to both Hadoop and RDBMS](https://lfaidata.foundation/wp-content/uploads/sites/9/2018/12/ODPi_Whitepaper_BIGData.pdf)
+
+[Why Business Intelligence Projects Fail ?](http://www.exforsys.com/tutorials/business-intelligence/why-business-intelligence-projects-fail.html)
+
+[Business Intelligence infographic](https://yourfreetemplates.com/business-intelligence-infographic/)
+
+[Lights on Data 10 components of the Business Intelligence landscape – LightsOnData](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.lightsondata.com%2Fwp-content%2Fuploads%2F2018%2F07%2FBI_landscape.jpg%3Fresize%3D1274%252C1024&imgrefurl=https%3A%2F%2Fwww.lightsondata.com%2Fbusiness-intelligence-landscape-components%2F&tbnid=GyS8YhiGPzOB8M&vet=12ahUKEwj1ief0lb7wAhWMSJQKHc5BB2sQMyg5egQIARBn..i&docid=HzIKvH8lcAgboM&w=1274&h=1024&q=business%20intelligence&hl=en&ved=2ahUKEwj1ief0lb7wAhWMSJQKHc5BB2sQMyg5egQIARBn]
+
 #### DMP
 
 [What Is Data Management Platform, How It Works and Why You Really Need It in Your Business](https://igorizraylevych.medium.com/what-is-data-management-platform-how-it-works-and-why-you-really-need-it-in-your-business-ab2e905545f3)
@@ -33,6 +47,14 @@
 [Best Data Management Platforms: How Does the Future Look for DMPs](https://www.adpushup.com/blog/the-best-data-management-platform/)
 
 [What Is a DSP? | DSP vs DMP](https://www.lotame.com/dmp-vs-dsp/)
+
+[What is a Data Management Platform (DMP)?](https://www.lotame.com/what-is-a-data-management-platform/)
+
+[DSP and DMP: Why You Need Both for Effective Ad Targeting](https://blog.admixer.com/dsp-and-dmp-programmatic/)
+
+[Everything You Need to Know Before You Kickstart With DMP](https://www.audienceplay.com/blog/all-about-dmp/)
+
+[用户分析——用户特征分析（用户画像）](https://www.cnblogs.com/wxdlut/p/10870730.html)
 
 #### Data Analystics
 
@@ -83,3 +105,5 @@
 
 ### Landscape
 [The 2020 data & AI landscape](http://mattturck.com/wp-content/uploads/2020/09/2020-Data-and-AI-Landscape-Matt-Turck-at-FirstMark-v1.pdf)
+
+[Big Data and Artificial Intelligence Landscape](https://www.researchgate.net/figure/Categories-and-subcategories-of-big-data-tools-from-FirstMarks-Capitals-Big-Data-and_fig2_338103665)
