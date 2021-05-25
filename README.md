@@ -1,4 +1,4 @@
-# Big Data
+r# Big Data
 
 ## Spark
 [How-to: Tune Your Apache Spark Jobs](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
@@ -153,6 +153,12 @@
 
 # Architecture
 [Stack Overflow: The Architecture - 2016 Edition](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
+
+## Raft
+[Raft Understandable Distributed Consensus 可视化演示](http://thesecretlivesofdata.com/raft/)
+[SOFAJRaft 实现原理 - 生产级 Raft 算法库存储模块剖析](https://www.sofastack.tech/blog/sofa-jraft-algorithm-storage-module-deep-dive/)
+[蚂蚁金服开源 SOFAJRaft 详解| 生产级高性能 Java 实现](https://www.sofastack.tech/blog/sofa-jraft-deep-dive/)
+[SOFAJRaft 实现原理 - SOFAJRaft-RheaKV 是如何使用 Raft 的](https://www.sofastack.tech/blog/sofa-jraft-rheakv/)
 
 # Gitbook
 [Python文本数据分析初学指南](https://datartisan.gitbooks.io/begining-text-mining-with-python/content)
