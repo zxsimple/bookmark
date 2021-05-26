@@ -30,6 +30,15 @@
 
 [AI Platform](https://www.deepsphere.ai/)
 
+[ML Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
+
+| **产品形态**            | **代表产品**                                                 | **产品特点**                                                 | **产品劣势**                                                 |
+| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Cloud  ML Platform      | Azure  ML Studio  Huawei  Cloud ModelArts  Aliyun  PAI  AWS  Segemaker | 1.与云生态中存储，计算等服务集成方便  2.可按需付费  3.良好的SLA支持 | 1.与云生态强绑定，开放性较差  2.不具备可修改性  3.不支持定制需求  4.集成成本很高 |
+| Commercial  ML Platform | Dataiku  Polyaxon  DataRobot                                 | 1.良好的用户体验  2.良好的SLA支持  3.On-Promise部署          | 1.不具备可修改性  2.定制需求支持周期长、成本高  3.集成成本较高 |
+| Enterprise  ML Platform | Tecent  维纳斯  Uber  Michelangelo  Huawei  华山             | 1.与企业遗留系统高度集成  2.易修改  3.定制特性强(分布式、高性能) | 1.通用性较差  2.开发成本较高                                 |
+| Open  Source Framework  | Tensorflow  PyTorch  Sklearn  MindSpore                      | 1.灵活、高效  2.开放性较高                                   | 1.要求开发者具有较高的专业技能  2.缺少数据接入、模型开发、部署等支持 |
+
 ### Data Products
 #### BI
 [Best practices for BI tool to connect to both Hadoop and RDBMS](https://lfaidata.foundation/wp-content/uploads/sites/9/2018/12/ODPi_Whitepaper_BIGData.pdf)
