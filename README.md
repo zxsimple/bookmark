@@ -1,4 +1,4 @@
-r# Big Data
+# Big Data
 
 ## Spark
 [How-to: Tune Your Apache Spark Jobs](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
