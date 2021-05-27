@@ -135,9 +135,6 @@
 
 [12因素应用](https://jimmysong.io/kubernetes-handbook/cloud-native/kubernetes-and-cloud-native-app-overview.html#12%E5%9B%A0%E7%B4%A0%E5%BA%94%E7%94%A8)
 
-# Distribution
-[Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/)
-
 # Front-End
 [StaticGen](https://www.staticgen.com/)
 
@@ -164,6 +161,7 @@
 
 [SOFAJRaft 实现原理 - SOFAJRaft-RheaKV 是如何使用 Raft 的](https://www.sofastack.tech/blog/sofa-jraft-rheakv/)
 
+[Raft 理论基础](https://zhuanlan.zhihu.com/p/85680181)
 
 # Gitbook
 [Python文本数据分析初学指南](https://datartisan.gitbooks.io/begining-text-mining-with-python/content)
