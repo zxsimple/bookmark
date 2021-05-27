@@ -24,6 +24,13 @@
 
 [A comprehensive comparison of Jupyter vs. Zeppelin](https://www.linkedin.com/pulse/comprehensive-comparison-jupyter-vs-zeppelin-hoc-q-phan-mba-/)
 
+## Kafka
+[深入浅出理解基于 Kafka 和 ZooKeeper 的分布式消息队列](https://gitbook.cn/books/5ae1e77197c22f130e67ec4e/index.html)
+
+
+## Zookeeper
+[Kafka 架构中 ZooKeeper 以怎样的形式存在？](https://gitbook.cn/books/5ae1e77197c22f130e67ec4e/index.html)
+
 # ML & DL
 
 ## Evaluation
