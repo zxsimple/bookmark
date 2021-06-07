@@ -207,3 +207,14 @@
 
 # Cloud
 [Selecting a Cloud Provider](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
+
+
+# JAVA
+
+## Vectorization
+
+[Code vectorization in the JVM: Auto-vectorization, intrinsics, Vector API](https://cr.openjdk.java.net/~vlivanov/talks/2019_CodeOne_MTE_Vectors.pdf)
+
+[JAVA and SIMD](https://github.com/Teradata/presto-tech/blob/master/blogs/simd.md)
+
+[深入拆解Java 虚拟机 - 26 | 向量化](https://blog.csdn.net/aha_jasper/article/details/105830976)
