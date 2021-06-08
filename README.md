@@ -218,3 +218,16 @@
 [JAVA and SIMD](https://github.com/Teradata/presto-tech/blob/master/blogs/simd.md)
 
 [深入拆解Java 虚拟机 - 26 | 向量化](https://blog.csdn.net/aha_jasper/article/details/105830976)
+
+[JEP 338: Vector API (Incubator)](https://openjdk.java.net/jeps/338)
+
+[Project Panama Early-Access Builds](https://jdk.java.net/panama/)
+
+[Vector API Developer Program for Java* Software](https://software.intel.com/content/www/us/en/develop/articles/vector-api-developer-program-for-java.html)
+
+
+# I/O
+
+## Zero Copy
+
+[原来 8 张图，就可以搞懂「零拷贝」了](https://zhuanlan.zhihu.com/p/258513662)
