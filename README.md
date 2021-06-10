@@ -225,6 +225,11 @@
 
 [Vector API Developer Program for Java* Software](https://software.intel.com/content/www/us/en/develop/articles/vector-api-developer-program-for-java.html)
 
+## 并发编程
+
+[Java-concurrency](https://github.com/CL0610/Java-concurrency)
+
+[Java-concurrency 知识图谱](https://www.processon.com/view/5ab5a979e4b0a248b0e026b3?fromnew=1#map)
 
 # I/O
 
