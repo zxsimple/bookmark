@@ -35,7 +35,7 @@
 
 ## SGD
 
-[一文看懂常用的梯度下降算法](https://zhuanlan.zhihu.com/p/31630368)
+[深入浅出--梯度下降法及其实现](https://zhuanlan.zhihu.com/p/33321183)
 
 
 ## Evaluation
