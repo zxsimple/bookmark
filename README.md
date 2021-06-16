@@ -33,6 +33,11 @@
 
 # ML & DL
 
+## SGD
+
+[一文看懂常用的梯度下降算法](https://zhuanlan.zhihu.com/p/31630368)
+
+
 ## Evaluation
 [机器学习中的偏差和方差](https://blog.csdn.net/renyp8799/article/details/50387042)
 
