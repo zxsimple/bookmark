@@ -241,3 +241,15 @@
 ## Zero Copy
 
 [原来 8 张图，就可以搞懂「零拷贝」了](https://zhuanlan.zhihu.com/p/258513662)
+
+# 推荐系统
+
+## 在线服务平台
+
+[算法平台在线服务体系的演进与实践](https://tech.meituan.com/2021/05/13/turing-os-online-serving.html)
+
+## 实验平台
+
+[美团点评效果广告实验配置平台的设计与实现](https://tech.meituan.com/2019/11/28/advertising-performance-experiment-configuration-platform.html)
+
+
